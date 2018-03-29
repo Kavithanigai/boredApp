@@ -1,0 +1,19 @@
+{
+  "name": "boredapp",
+  "version": "1.0.0",
+  "description": "Play games/read articles/answer riddles/learn craft",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "bored"
+  ],
+  "author": "KaviThan",
+  "license": "ISC"
+}
